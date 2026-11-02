@@ -1,125 +1,41 @@
-<div align="center">
+# SpaceX Explorer
 
-  <img src="./assest/murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
+A collaborative learning project built with React and Redux. Explore SpaceX API data and manage rocket reservations and mission participation within the application.
 
-  <h3><b>Microverse README Template</b></h3>
+## Features
 
-</div>
+- Browse rockets and missions from the SpaceX API.
+- Reserve rockets and join or leave missions within the app.
+- Review selected rockets and missions in a personal profile view.
 
-<!-- TABLE OF CONTENTS -->
+## Built with
 
-# 📗 Table of Contents
+React · Redux · JavaScript · HTML · CSS · Webpack
 
-- [📖 About the Project](#about-project)
-  - [🛠 Built With](#built-with)
-    - [Tech Stack](#tech-stack)
-    - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
-- [💻 Getting Started](#getting-started)
-  - [Setup](#setup)
-  - [Prerequisites](#prerequisites)
-  - [Install](#install)
-  - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
-- [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
-- [🤝 Contributing](#contributing)
-- [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ](#faq)
-- [📝 License](#license)
+## Run locally
 
-<!-- PROJECT DESCRIPTION -->
+Install Node.js and npm, then run:
 
-# 📖 [spaceX] <a name="about-project"></a>
-
-> - In this App We will be working with the real live data from the SpaceX API. We build a web application for a company that provides commercial and scientific space travel services. The application will allow users to book rockets and join selected space missions..
-
-## 🛠 Built With <a name="built-with"></a>
-
-- React
-- Redux
-- API
-- CSS
-- HTML/Javascript best practices
-- Linters
-- Webpack
-
-<!-- Features -->
-
-### Key Features <a name="key-features"></a>
-
-- Displaying list of available Rockets
-- Displaying list of available Missions
-- Displaying list of Reserved Missions and Rockets
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-> coming soon
-
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
-
-<!-- GETTING STARTED -->
-
-## 💻 Getting Started <a name="getting-started"></a>
-
-To get a local copy up and running, follow these steps.
-
-```
-- git clone https://github.com/MahdiSohaily/spaceX.git
-- cd spaceX
-- npm i
-- npm start
+```bash
+git clone https://github.com/MahdiRezaeiDev/spaceX.git
+cd spaceX
+npm install
+npm start
 ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+## Authors
 
-<!-- AUTHORS -->
+- **Mahdi Rezaei** · [GitHub](https://github.com/MahdiRezaeiDev) · [LinkedIn](https://www.linkedin.com/in/rezaei-mahdi/)
+- **Lucca Micale** · [GitHub](https://github.com/luccamicale) · [LinkedIn](https://www.linkedin.com/in/lucca-micale-907908233/)
 
-## 👥 Authors <a name="authors"></a>
+## Contributing
 
- 👤 **Mahdi Rezaei**
+Issues and pull requests are welcome. Please use this repository's [issues page](https://github.com/MahdiRezaeiDev/spaceX/issues) to describe a bug or suggest an improvement.
 
-- Frontend Mentor - [@MahdiSohaily](https://www.frontendmentor.io/profile/MahdiSohaily)
-- Twitter - [@Mahdi_Rezaei_AF](https://twitter.com/Mahdi_Rezaei_AF)
-- linkedIn - [@Mahdi-rezaei](https://www.linkedin.com/in/mahdi-rezaei-74705713b)
+## Acknowledgments
 
-👤 **Lucca Micale**
+Thanks to the open-source contributors whose tools and code helped make this project possible.
 
-- GitHub: [@luccamicale](https://github.com/luccamicale)
-- Twitter: [@luccamicale_](https://twitter.com/LuccaMicale_)
-- LinkedIn: [luccamicale](https://www.linkedin.com/in/lucca-micale-907908233/)
+## License
 
-<!-- CONTRIBUTING -->
-
-## 🤝 Contributing <a name="contributing"></a>
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
-
-<!-- SUPPORT -->
-
-## ⭐️ Show your support <a name="support"></a>
-
-- Give a ⭐️ if you like this project!
-
-<!-- ACKNOWLEDGEMENTS -->
-
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-- I'm immensely grateful to all the people whose code I used.
-
-<!-- FAQ (optional) -->
-
-## 📝 License <a name="license"></a>
-
-This project is [MIT](./LICENSE) licensed.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+This project is available under the [MIT License](LICENSE).
